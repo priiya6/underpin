@@ -2,7 +2,7 @@
 
 ## Current project status
 
-Complete locally. The exact `npm test` and `npm run coverage` commands pass. The project is not connected to a local Git repository; no GitHub push has been performed.
+Complete and pushed to GitHub. The exact `npm test` and `npm run coverage` commands pass.
 
 ## Files inspected
 
@@ -25,8 +25,7 @@ Complete locally. The exact `npm test` and `npm run coverage` commands pass. The
 
 ## Tasks remaining
 
-- Commit and push the completed project to `https://github.com/priiya6/underpin` manually, unless Git metadata/authentication is provided.
-- Add a live deployment only if desired; local assignment requirements are complete.
+- No required implementation tasks remain. Live deployment is optional and was intentionally not attempted.
 
 ## Bugs discovered
 
@@ -60,5 +59,12 @@ Details are in `BUG_REPORT.md`.
 
 ## Exact next steps
 
-1. Review the changed files and `BUG_REPORT.md`.
-2. If submitting to GitHub, initialize/connect Git without overwriting history, then commit and push the project.
+1. Submit the GitHub repository link: `https://github.com/priiya6/underpin`.
+2. Include the coverage summary and submission note.
+
+## Git submission
+
+- Commit: `764a282` (`Complete task API assignment`)
+- Branch: `main`
+- Remote: `https://github.com/priiya6/underpin.git`
+- Push status: completed successfully.
